@@ -121,9 +121,17 @@ const priyabrata = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%93%88+Contribution+Activity" alt="Contribution Activity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%90%8D+Contribution+Activity" alt="Contribution Activity" />
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyabratasahoo780/priyabratasahoo780/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyabratasahoo780/priyabratasahoo780/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/priyabratasahoo780/priyabratasahoo780/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyabratasahoo780&theme=tokyo-night&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)](https://github.com/priyabratasahoo780)
 
