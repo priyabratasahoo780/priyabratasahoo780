@@ -1,0 +1,53 @@
+name: Update GitHub Metrics
+
+on:
+  # run automatically every 4 hours
+  schedule:
+    - cron: "0 */4 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the master/main branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Create build directory
+        run: mkdir dist
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch GitHub Stats SVG
+        run: curl -s "https://github-readme-stats-eight-theta.vercel.app/api?username=priyabratasahoo780&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" > dist/stats.svg
+
+      - name: Fetch Top Languages SVG
+        run: curl -s "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyabratasahoo780&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=ffffff" > dist/langs.svg
+
+      - name: Fetch Streak Stats SVG
+        run: curl -s "https://github-readme-streak-stats.herokuapp.com?user=priyabratasahoo780&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" > dist/streak.svg
+
+      - name: Push all SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

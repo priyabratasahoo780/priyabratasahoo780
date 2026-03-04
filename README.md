@@ -70,12 +70,12 @@ const priyabrata = {
 
 <!-- Table layout = most reliable way for side-by-side images on GitHub -->
 
-| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=priyabratasahoo780&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff) | ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyabratasahoo780&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=ffffff) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Stats](https://raw.githubusercontent.com/priyabratasahoo780/priyabratasahoo780/output/stats.svg) | ![Top Languages](https://raw.githubusercontent.com/priyabratasahoo780/priyabratasahoo780/output/langs.svg) |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyabratasahoo780&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+![GitHub Streak](https://raw.githubusercontent.com/priyabratasahoo780/priyabratasahoo780/output/streak.svg)
 
 </div>
 
