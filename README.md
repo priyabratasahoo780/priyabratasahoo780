@@ -36,32 +36,13 @@ const priyabrata = {
 
 <div align="center">
 
-<!-- Professional Presence Group -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Professional%20Presence-1a1a2e?style=flat-square" alt="Professional Presence" />
-</p>
-
-GitHub - [github.com/priyabratasahoo780](https://github.com/priyabratasahoo780)  
-LinkedIn - [linkedin.com/in/priyabratasahoo780](https://www.linkedin.com/in/priyabratasahoo780)
-
-<br/>
-
-<!-- Coding & Community Group -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Coding%20%26%20Community-1a1a2e?style=flat-square" alt="Coding & Community" />
-</p>
-
-LeetCode - [leetcode.com/u/Priyabrata_Sahoo780/](https://leetcode.com/u/Priyabrata_Sahoo780/)  
-Twitter - [twitter.com/priyabratasahoo](https://twitter.com/priyabratasahoo)
-
-<br/>
-
-<!-- Direct Contact Group -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Direct%20Contact-1a1a2e?style=flat-square" alt="Direct Contact" />
-</p>
-
-Gmail - [priyabratasahoo780@gmail.com](mailto:priyabratasahoo780@gmail.com)
+| 🌐 Platform     | 🔗 Connect                                                                           |
+| :-------------- | :----------------------------------------------------------------------------------- |
+| **GitHub**      | [github.com/priyabratasahoo780](https://github.com/priyabratasahoo780)               |
+| **LinkedIn**    | [linkedin.com/in/priyabratasahoo780](https://www.linkedin.com/in/priyabratasahoo780) |
+| **LeetCode**    | [leetcode.com/u/Priyabrata_Sahoo780](https://leetcode.com/u/Priyabrata_Sahoo780)     |
+| **Twitter (X)** | [twitter.com/priyabratasahoo](https://twitter.com/priyabratasahoo)                   |
+| **Gmail**       | [priyabratasahoo780@gmail.com](mailto:priyabratasahoo780@gmail.com)                  |
 
 </div>
 
