@@ -32,6 +32,43 @@ const priyabrata = {
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%8C%90+Let%27s+Connect!" alt="Let's Connect" />
+
+<div align="center">
+
+<!-- Professional Presence Group -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Professional%20Presence-1a1a2e?style=flat-square" alt="Professional Presence" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-priyabratasahoo780-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyabratasahoo780)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyabratasahoo780)
+
+<br/>
+
+<!-- Coding & Community Group -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Coding%20%26%20Community-1a1a2e?style=flat-square" alt="Coding & Community" />
+</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Priyabrata_Sahoo780/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyabratasahoo)
+
+<br/>
+
+<!-- Direct Contact Group -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Direct%20Contact-1a1a2e?style=flat-square" alt="Direct Contact" />
+</p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyabratasahoo780@gmail.com)
+
+</div>
+
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
 **🎨 Frontend**
@@ -151,43 +188,6 @@ const priyabrata = {
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyabratasahoo780&theme=tokyo-night&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)](https://github.com/priyabratasahoo780)
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%8C%90+Let%27s+Connect!" alt="Let's Connect" />
-
-<div align="center">
-
-<!-- Professional Presence Group -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Professional%20Presence-1a1a2e?style=flat-square" alt="Professional Presence" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-priyabratasahoo780-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyabratasahoo780)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyabratasahoo780)
-
-<br/>
-
-<!-- Coding & Community Group -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Coding%20%26%20Community-1a1a2e?style=flat-square" alt="Coding & Community" />
-</p>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Priyabrata_Sahoo780/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyabratasahoo)
-
-<br/>
-
-<!-- Direct Contact Group -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Direct%20Contact-1a1a2e?style=flat-square" alt="Direct Contact" />
-</p>
-
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyabratasahoo780@gmail.com)
 
 </div>
 
