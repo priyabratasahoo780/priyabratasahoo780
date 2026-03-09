@@ -41,7 +41,7 @@ const priyabrata = {
 | **GitHub**      | [github.com/priyabratasahoo780](https://github.com/priyabratasahoo780)               |
 | **LinkedIn**    | [linkedin.com/in/priyabratasahoo780](https://www.linkedin.com/in/priyabratasahoo780) |
 | **LeetCode**    | [leetcode.com/u/Priyabrata_Sahoo780](https://leetcode.com/u/Priyabrata_Sahoo780)     |
-| **Twitter (X)** | [twitter.com/priyabratasahoo](https://twitter.com/priyabratasahoo)                   |
+| **Twitter (X)** | [x.com/PRIYABRATA_780](https://x.com/PRIYABRATA_780)                                 |
 | **Gmail**       | [priyabratasahoo780@gmail.com](mailto:priyabratasahoo780@gmail.com)                  |
 
 </div>
