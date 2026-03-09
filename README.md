@@ -100,7 +100,7 @@ const priyabrata = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/priyabratasahoo780?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/priyabratasahoo780)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Priyabrata_Sahoo780?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Priyabrata_Sahoo780/)
 
 </div>
 
