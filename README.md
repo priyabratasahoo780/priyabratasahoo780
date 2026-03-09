@@ -41,9 +41,8 @@ const priyabrata = {
   <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20Professional%20Presence-1a1a2e?style=flat-square" alt="Professional Presence" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-priyabratasahoo780-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyabratasahoo780)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyabratasahoo780)
+GitHub - [github.com/priyabratasahoo780](https://github.com/priyabratasahoo780)  
+LinkedIn - [linkedin.com/in/priyabratasahoo780](https://www.linkedin.com/in/priyabratasahoo780)
 
 <br/>
 
@@ -52,9 +51,8 @@ const priyabrata = {
   <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Coding%20%26%20Community-1a1a2e?style=flat-square" alt="Coding & Community" />
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Priyabrata_Sahoo780/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyabratasahoo)
+LeetCode - [leetcode.com/u/Priyabrata_Sahoo780/](https://leetcode.com/u/Priyabrata_Sahoo780/)  
+Twitter - [twitter.com/priyabratasahoo](https://twitter.com/priyabratasahoo)
 
 <br/>
 
@@ -63,7 +61,7 @@ const priyabrata = {
   <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Direct%20Contact-1a1a2e?style=flat-square" alt="Direct Contact" />
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyabratasahoo780@gmail.com)
+Gmail - [priyabratasahoo780@gmail.com](mailto:priyabratasahoo780@gmail.com)
 
 </div>
 
