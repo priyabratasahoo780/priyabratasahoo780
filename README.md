@@ -96,6 +96,16 @@ const priyabrata = {
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%E2%9A%A1+LeetCode+Stats" alt="LeetCode Stats" />
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/priyabratasahoo780?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/priyabratasahoo780)
+
+</div>
+
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
 
 <div align="center">
