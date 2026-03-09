@@ -96,9 +96,16 @@ const priyabrata = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%E2%9A%A1+LeetCode+Stats" alt="LeetCode Stats" />
-
+<!-- Premium LeetCode Section -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FFA116&center=true&vCenter=true&width=600&lines=%E2%9A%A1+LeetCode+Mastery;%F0%9F%A7%A0+Solving+Algorithms;%F0%9F%93%88+Daily+Consistency;%F0%9F%9A%80+Leveling+Up+Skills" alt="LeetCode Typing" />
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-Priyabrata_Sahoo780-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mode-Competitive-A855F7?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Priyabrata_Sahoo780?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Priyabrata_Sahoo780/)
 
