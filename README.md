@@ -1,17 +1,11 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&letterSpacing=3px&duration=2000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=PRIYABRATA+SAHOO;Full-Stack+MERN+Architect;Crafting+Digital+Experiences;Open+for+Innovation" alt="Typing SVG" />
 
-<!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&letterSpacing=2px&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Priyabrata+Sahoo!;Full-Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Crafting+Beautiful+%26+Scalable+Apps+%E2%9C%A8;Open+to+Work+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<br/>
-
-<!-- Badges Row -->
-<img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Available%20for%20Work-A855F7?style=for-the-badge&labelColor=1a1a2e" />
-&nbsp;
-<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF6C37?style=for-the-badge&labelColor=1a1a2e" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=priyabratasahoo780&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
-
+  <p align="center">
+    <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Available%20for%20Work-A855F7?style=for-the-badge&labelColor=111111" />
+    <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-22D3EE?style=for-the-badge&labelColor=111111" />
+    <img src="https://komarev.com/ghpvc/?username=priyabratasahoo780&style=for-the-badge&color=A855F7&label=PORTFOLIO+VIEWS" />
+  </p>
 </div>
 
 ---
@@ -50,35 +44,17 @@ const priyabrata = {
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
-**🎨 Frontend**
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
+| ⚡ **Frontend** | ⚙️ **Backend** | 🛠️ **Tools** |
+| :------- | :------- | :------- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
-**⚙️ Backend & Database**
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-**🧰 Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+</div>
 
 ---
 
@@ -127,34 +103,20 @@ const priyabrata = {
 
 </div>
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
-
-<div align="center">
-
-|  🔥 Project   | 💡 Description                                                  |           ⚙️ Stack            |                                                                  🔗                                                                  |
-| :-----------: | :-------------------------------------------------------------- | :---------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| **Internet Evolution** | An immersive storytelling experience built with Three.js & GSAP, featuring cinematic animations and smooth-scrolling mechanics | `Three.js` `GSAP` `Lenis` `React` `Tailwind` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/Interactive_Webs.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white)](https://interactive-webs.vercel.app) |
-| **SoloLearn** | Full-stack EdTech platform featuring interactive curriculum delivery, real-time code validation, and a gamified UX | `MongoDB` `Express` `React` `Node` `JWT` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/Solo_learn.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white)](https://solo-learn-zeta.vercel.app) |
-| **ATS-Scorer** | AI-driven recruitment engine that automates ATS scoring, provides real-time skill gap visualizations, and offers tailored career roadmaps | `React.js` `Tailwind` `Node.js` `SupaBase` `JWT` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/ArtPark_CodeForge_Hackathon.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white)](https://art-park-code-forge-hackathon-nine.vercel.app/) |
-| **Meal Explorer** | A sophisticated culinary exploration engine that leverages global recipe APIs to provide interactive meal discovery and real-time search | `React` `JavaScript` `REST API` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/task3.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white)](https://task3-two-sigma.vercel.app/) |
-| **Crypto Clone** | A lightweight frontend clone of a dynamic cryptocurrency dashboard, meticulously crafted with vanilla HTML, CSS, and JavaScript for optimal performance | `HTML` `CSS` `JS` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/cryptoWebsite.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white)](https://crypto-website-sooty.vercel.app) |
-| **JioMart Clone** | A high-fidelity frontend clone of the JioMart e-commerce platform, focusing on pixel-perfect responsive design and complex CSS layouts | `HTML` `CSS` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/WEBSITE-1.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=netlify&logoColor=white)](https://jiomartcloneweb1.netlify.app) |
-| **Bata Clone** | A polished frontend clone of the Bata footwear platform, demonstrating advanced CSS styling and multi-category layout architecture | `HTML` `CSS` | [![](https://img.shields.io/badge/Repo-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/priyabratasahoo780/WEBSITE-2.git) [![](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=netlify&logoColor=white)](https://batawebsitsclone.netlify.app) |
-
-</div>
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%8C%B1+Currently+Up+To" alt="Currently Up To" />
 
-```text
-🔭  Building    →  Production-ready MERN stack apps
-📚  Learning    →  TypeScript · Next.js · Advanced React Patterns
-🤝  Open to     →  Freelance projects & Full-time opportunities
-💡  Exploring   →  System design & Clean Architecture
-```
+<div align="center">
+
+| 🔭 **Developing** | 📚 **Mastering** | 🤝 **Available For** |
+| :--- | :--- | :--- |
+| Production-ready MERN Apps | TypeScript & Next.js 14 | Strategic Collaborations |
+| Scalable Web Architectures | Advanced React Patterns | Full-Stack Engineering Roles |
+| Performance Optimization | System Design Principles | Custom Web Solutions |
+
+</div>
 
 ---
 
