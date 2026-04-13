@@ -106,20 +106,6 @@ const priyabrata = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%8C%B1+Currently+Up+To" alt="Currently Up To" />
-
-<div align="center">
-
-| 🔭 **Developing** | 📚 **Mastering** | 🤝 **Available For** |
-| :--- | :--- | :--- |
-| Production-ready MERN Apps | TypeScript & Next.js 14 | Strategic Collaborations |
-| Scalable Web Architectures | Advanced React Patterns | Full-Stack Engineering Roles |
-| Performance Optimization | System Design Principles | Custom Web Solutions |
-
-</div>
-
----
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%90%8D+Contribution+Activity" alt="Contribution Activity" />
 
 <div align="center">
