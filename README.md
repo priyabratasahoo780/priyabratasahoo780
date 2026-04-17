@@ -10,50 +10,104 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=400&lines=%E2%9A%A1+About+Me" alt="About Me" />
-
-```javascript
-const priyabrata = {
-  name: "Priyabrata Sahoo",
-  role: "Full-Stack Developer  🧑‍💻",
-  based: "India 🇮🇳",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
-  learning: ["TypeScript", "Next.js", "Docker"],
-  passion: "Turning ☕ coffee into clean & scalable code",
-  available: true, // → open to freelance & full-time roles 🤝
-};
-```
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=450&lines=%F0%9F%8C%90+Let%27s+Connect!" alt="Let's Connect" />
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=%E2%9A%A1+About+Me;%F0%9F%A7%A0+Critical+Thinker;%F0%9F%9A%80+Full-Stack+Innovator" alt="About Me" />
 
-| 🌐 Platform     | 🔗 Connect                                                                           |
-| :-------------- | :----------------------------------------------------------------------------------- |
-| **GitHub**      | [github.com/priyabratasahoo780](https://github.com/priyabratasahoo780)               |
-| **LinkedIn**    | [linkedin.com/in/priyabratasahoo780](https://www.linkedin.com/in/priyabratasahoo780) |
-| **LeetCode**    | [leetcode.com/u/Priyabrata_Sahoo780](https://leetcode.com/u/Priyabrata_Sahoo780)     |
-| **Twitter (X)** | [x.com/PRIYABRATA_780](https://x.com/PRIYABRATA_780)                                 |
-| **Gmail**       | [priyabratasahoo780@gmail.com](mailto:priyabratasahoo780@gmail.com)                  |
+  <br/><br/>
 
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="left"><b>👤 Name</b></td>
+      <td align="left">Priyabrata Sahoo</td>
+      <td align="left"><b>🚀 Role</b></td>
+      <td align="left">Full-Stack MERN Developer</td>
+    </tr>
+    <tr>
+      <td align="left"><b>📍 Based</b></td>
+      <td align="left">India 🇮🇳</td>
+      <td align="left"><b>☕ Passion</b></td>
+      <td align="left">Coffee ⮕ Clean Code</td>
+    </tr>
+    <tr>
+      <td align="left"><b>📚 Stack</b></td>
+      <td align="left">MongoDB, React, Node</td>
+      <td align="left"><b>🌱 Learning</b></td>
+      <td align="left">TS, Next.js, Docker</td>
+    </tr>
+    <tr>
+      <td align="left"><b>🤝 Status</b></td>
+      <td colspan="3" align="left"><b>Open to Work</b> & Collaboration</td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <p align="center">
+    <i>"I specialize in architecting <b>high-performance web solutions</b> and turning complex ideas<br/>
+    into <b>simple, beautiful, and intuitive</b> digital experiences."</i>
+  </p>
+
+  <br/>
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Let%27s+Connect!;%F0%9F%93%A7+Get+in+Touch;%F0%9F%A4%9D+Collaboration+Opportunities" alt="Connect" />
+
+  <p>
+    <a href="https://github.com/priyabratasahoo780" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/priyabratasahoo780" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/Priyabrata_Sahoo780" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://x.com/PRIYABRATA_780" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:priyabratasahoo780@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=800&color=22D3EE&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Core+Technologies" alt="Core Technologies" />
 
 <div align="center">
-
-| ⚡ **Frontend** | ⚙️ **Backend** | 🛠️ **Tools** |
-| :------- | :------- | :------- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
-
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React" /><br /><sub><b>React</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" alt="Express" /><br /><sub><b>Express</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind" /><br /><sub><b>Tailwind</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sass" width="50" alt="Sass" /><br /><sub><b>Sass</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" /><br /><sub><b>Bootstrap</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux" /><br /><sub><b>Redux</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" /><br /><sub><b>Vite</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" /><br /><sub><b>Git</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" /><br /><sub><b>Vercel</b></sub></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -102,7 +156,6 @@ const priyabrata = {
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Priyabrata_Sahoo780?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Priyabrata_Sahoo780/)
 
 </div>
-
 
 ---
 
